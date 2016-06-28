@@ -3,6 +3,7 @@ using System;
 namespace NHDG.NHDGCommon.AppSettings {
 	/// <summary>A class that represents the core settings needed for an application.</summary>
 	public class ApplicationSettings {
+
 		/// <summary>The name of the application these settings are for.</summary>
 		public string ApplicationName = string.Empty;
 
